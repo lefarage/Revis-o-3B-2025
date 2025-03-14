@@ -1,0 +1,21 @@
+body {
+    background-color: #40E0D0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #fff;
+    font-size: 2em;
+}
+
+/* Vou estilizar imagem aqui */
+
+p {
+    color: #fff;
+    font-size: 1.2em;
+    margin-top: 20px;
+    padding: 0 20px;
+}
