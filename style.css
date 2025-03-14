@@ -15,6 +15,11 @@ h1 {
 }
 
 /* Vou estilizar imagem aqui */
+.calendario {
+    width: 200px;
+    height: auto;
+    margin-top: 20px;
+}
 
 p {
     color: #fff;
